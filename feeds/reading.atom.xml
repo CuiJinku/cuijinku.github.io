@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Herder's techou - Reading</title><link href="/" rel="alternate"></link><link href="/feeds/reading.atom.xml" rel="self"></link><id>/</id><updated>2021-10-07T01:52:00-04:00</updated><entry><title>My reading plan</title><link href="/my-reading-plan.html" rel="alternate"></link><published>2021-10-07T01:52:00-04:00</published><updated>2021-10-07T01:52:00-04:00</updated><author><name>Herder</name></author><id>tag:None,2021-10-07:/my-reading-plan.html</id><content type="html">&lt;p&gt;There are some books I plan to read.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CSAPP&lt;/li&gt;
+&lt;li&gt;Zinu&lt;/li&gt;
+&lt;li&gt;K&amp;amp;R C&lt;/li&gt;
+&lt;li&gt;Number theory&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Reading"></category></entry></feed>
