@@ -1,5 +1,5 @@
 ---
-title: Thoughts-on-Intimate-Relationship
+title: Thoughts on Intimate Relationship
 tag: thinking
 ---
 
