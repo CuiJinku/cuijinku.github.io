@@ -33,3 +33,11 @@ tags: technique
 
     - Intel-VT
     - AMD-SVM
+
+* Power effiency plan
+
+    - Intel-SpeedStep, AMD-PowerNow!
+
+* 64/32 Compatiable Technique
+
+    - AMD-AMD64, Intel-EM64T
